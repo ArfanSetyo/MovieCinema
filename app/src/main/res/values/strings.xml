@@ -1,0 +1,17 @@
+<!-- menampilkan teks pada aplikasi-->
+<resources>
+    <string name="app_name">MovieCinema</string>
+    <string name="rekomendasi">Rekomendasi Untukmu</string>
+    <string name="darker_preview">darker Preview</string>
+    <string name="rating_star">rating Star</string>
+    <string name="rate">8.9</string>
+    <string name="logo_app">Logo App</string>
+    <string name="movies">MOVIES</string>
+    <string name="tvshow">TV SHOWS</string>
+    <string name="descr">Lorem Ipsum dolor sit amet itu contohnya</string>
+    <string name="description">Description</string>
+    <string name="genre">Genre</string>
+    <string name="rating_bintang">Rating Bintang</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
